@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/corey/AdaProjects/simple_gui.gpr
+20220104163249
+/usr/share/gpr/gtkada.gpr
+20200225110906
+[BOUND OBJECT FILES]
+/home/corey/AdaProjects/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/corey/AdaProjects/obj/
+-L/home/corey/AdaProjects/obj/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/gtkada/
+-L/usr/lib/gcc/x86_64-linux-gnu/9/adalib/
+-shared
+-shared-libgcc
+-shared-libgcc
+-shared-libgcc
+-shared-libgcc
+-lgnat-9
+-ldl
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/9/adalib/
+/usr/lib
