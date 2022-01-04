@@ -2,10 +2,25 @@
 b__main.o
 [PROJECT FILES]
 /home/corey/AdaProjects/simple_gui.gpr
-20220104163249
+20220104203549
+/usr/share/gpr/xmlada_unicode.gpr
+20200325151624
+/usr/share/gpr/xmlada_input.gpr
+20200325151624
+/usr/share/gpr/xmlada_sax.gpr
+20200325151624
+/usr/share/gpr/xmlada_dom.gpr
+20200325151624
+/usr/share/gpr/xmlada_schema.gpr
+20200325151624
+/usr/share/gpr/gnatprj.gpr
+20200224210324
+/usr/share/gpr/gnatcoll.gpr
+20200225142856
 /usr/share/gpr/gtkada.gpr
 20200225110906
 [BOUND OBJECT FILES]
+/home/corey/AdaProjects/obj/logingui.o
 /home/corey/AdaProjects/obj/main.o
 [GENERATED SOURCE FILES]
 b__main.ads
@@ -15,6 +30,13 @@ b__main.ali
 -L/home/corey/AdaProjects/obj/
 -L/home/corey/AdaProjects/obj/
 -L/usr/lib/x86_64-linux-gnu/ada/adalib/gtkada/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/gnatcoll/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/gnatprj/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_schema/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_dom/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_sax/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_input/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_unicode/
 -L/usr/lib/gcc/x86_64-linux-gnu/9/adalib/
 -shared
 -shared-libgcc

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<Locations>
+<Locations >
   <Project>
-    <vfs_file>/home/corey/AdaProjects/simple_gui.gpr</vfs_file>
+    <vfs_file />
     <file_marker column=" 30" line=" 3" >
       <vfs_project />
       <vfs_file>/home/corey/default.gpr</vfs_file>
@@ -14,9 +14,324 @@
       <vfs_project />
       <vfs_file>/home/corey/AdaProjects/simple_gui.gpr</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 1" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
       <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 5" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/LoginGui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 51" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/LoginGui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 56" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 54" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 58" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 50" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 53" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 54" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 3" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 56" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 24" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 3" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 13" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 13" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 13" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 13" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 7" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 10" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 11" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 11" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 13" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 13" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 60" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 2" >
+      <vfs_project />
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 10" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/logingui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 8" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/logingui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 53" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 57" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 50" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 48" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 61" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/logingui.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 6" line=" 2" >
+      <vfs_project>/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file>/home/corey/AdaProjects/src/logingui.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/home/corey/AdaProjects/simple_gui.gpr</vfs_file>
+    <file_marker column=" 30" line=" 3">
+      <vfs_project  />
+      <vfs_file >/home/corey/default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/home/corey/AdaProjects/simple_gui.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 6">
+      <vfs_project  />
+      <vfs_file >/home/corey/AdaProjects/simple_gui.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >/home/corey/AdaProjects/simple_gui.gpr</vfs_project>
+      <vfs_file >/home/corey/AdaProjects/src/main.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

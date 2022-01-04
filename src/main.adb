@@ -7,6 +7,8 @@ with Gtk.GEntry;       use Gtk.GEntry;
 with Gtk.Grid;         use Gtk.Grid;
 with Gtk.Button;       use Gtk.Button;
 
+with logingui; use logingui;
+
 
 procedure Main is
 
@@ -15,7 +17,6 @@ procedure Main is
    user_name_entry : Gtk_Entry;
    password_entry : Gtk_Entry;
    grid : Gtk_Grid;
-   submit : Gtk_Button;
 
 
 begin
@@ -49,9 +50,15 @@ begin
 
 
    --Add submit button
-   Gtk_New(submit, "Submit");
-   grid.Attach(submit, 0, 3, 2, 1);
+   Gtk_New(logingui.submit, "Submit");
+   grid.Attach(logingui.submit, 0, 3, 2, 1);
 
+   --Add password error label
+   Gtk_New(logingui.status_label);
+   grid.Attach(logingui.status_label, 0, 4, 2, 1);
+
+   --Button action
+   On_Clicked(logingui.submit, authenticate'Access);
 
    --  Show the window and present it
    Win.Show_All;

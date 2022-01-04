@@ -37,7 +37,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#5d750990#;
+   u00001 : constant Version_32 := 16#a5be7178#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#050ff2f0#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -719,6 +719,10 @@ package ada_main is
    pragma Export (C, u00340, "gtk__mainB");
    u00341 : constant Version_32 := 16#379dae29#;
    pragma Export (C, u00341, "gtk__mainS");
+   u00342 : constant Version_32 := 16#0c373054#;
+   pragma Export (C, u00342, "loginguiB");
+   u00343 : constant Version_32 := 16#68d2b766#;
+   pragma Export (C, u00343, "loginguiS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -1061,6 +1065,8 @@ package ada_main is
    --  gtk.menu%b
    --  gtk.label%s
    --  gtk.label%b
+   --  logingui%s
+   --  logingui%b
    --  main%b
    --  END ELABORATION ORDER
 

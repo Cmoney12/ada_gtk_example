@@ -1,4 +1,5 @@
 with "gtkada";
+with "gnatcoll";
 
 project Simple_Gui is
 

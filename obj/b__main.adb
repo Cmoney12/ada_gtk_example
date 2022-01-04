@@ -133,6 +133,7 @@ package body ada_main is
    E339 : Short_Integer; pragma Import (Ada, E339, "gtk__menu_shell_E");
    E333 : Short_Integer; pragma Import (Ada, E333, "gtk__menu_E");
    E331 : Short_Integer; pragma Import (Ada, E331, "gtk__label_E");
+   E343 : Short_Integer; pragma Import (Ada, E343, "logingui_E");
 
    Sec_Default_Sized_Stacks : array (1 .. 1) of aliased System.Secondary_Stack.SS_Stack (System.Parameters.Runtime_Default_Sec_Stack_Size);
 
@@ -997,6 +998,7 @@ package body ada_main is
       Gtk.Label'Elab_Spec;
       Gtk.Label'Elab_Body;
       E331 := E331 + 1;
+      E343 := E343 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -1032,10 +1034,18 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
+   --   /home/corey/AdaProjects/obj/logingui.o
    --   /home/corey/AdaProjects/obj/main.o
    --   -L/home/corey/AdaProjects/obj/
    --   -L/home/corey/AdaProjects/obj/
    --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/gtkada/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/gnatcoll/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/gnatprj/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_schema/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_dom/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_sax/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_input/
+   --   -L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_unicode/
    --   -L/usr/lib/gcc/x86_64-linux-gnu/9/adalib/
    --   -shared
    --   -shared-libgcc
