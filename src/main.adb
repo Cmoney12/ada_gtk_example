@@ -30,6 +30,8 @@ begin
    Gtk_New (grid);
    Win.Add(grid);
    Win.Set_Border_Width(115);
+   grid.Set_Row_Spacing(5);
+   grid.Set_Column_Homogeneous(True);
 
    --  Add a label
    Gtk_New (Label, "Login");
@@ -43,7 +45,6 @@ begin
    --Add password_entry
    Gtk_New(password_entry);
    grid.Attach(password_entry, 0, 2, 2, 1);
-   --password_entry.Set_Tooltip_Text("*");
    password_entry.Set_Visibility(False);
 
 
